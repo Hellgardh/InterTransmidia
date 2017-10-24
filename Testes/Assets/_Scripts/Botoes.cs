@@ -20,7 +20,7 @@ public class Botoes : MonoBehaviour {
 
 	public void Iniciar(){
 
-		SceneManager.LoadScene ("Main");
+		SceneManager.LoadScene ("TemploAmaldiçoado_REWORK");
 		apertou = true;
 		/*if (apertou == true) {
 			audio.Play (44100);
